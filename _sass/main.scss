@@ -68,7 +68,7 @@ body {
 	color: white;
 }
 
-.navbar li a:hover:not(.active) {
+.navbar li a:hover:not(.navactive) {
 	background-color: #333333;
 	font-weight: bold;
 }
