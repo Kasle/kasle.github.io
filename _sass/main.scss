@@ -31,6 +31,12 @@ body {
 	//height: 100%;
 }
 
+.chr{
+	border-top: 2px solid #a8a8a8;
+	margin-top: 5px;
+	margin-bottom: 4px;
+}
+
 
 .backdrop {
 	flex: 1;
@@ -98,12 +104,11 @@ body {
 .contact {
 	text-align: center;
 	background-color: white;//#fffdf7;
-	border: 1px solid #828282;
+	border: 1px solid #000000;//#828282;
 	box-shadow: 3px 3px 5px;
 	width: 460px;
 	height: 246px;
 	margin: 100px auto;
 	padding: 20px;
-	font-size: 1em;
-	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-family: "Times New Roman", 'Times', serif, 'Helvetica', 'Arial', sans-serif;
 }
